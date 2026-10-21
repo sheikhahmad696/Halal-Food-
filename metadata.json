@@ -1,0 +1,6 @@
+{
+  "name": "HalalAtlas — Halal Food Near Me & Global Guide",
+  "description": "Global halal food finder, interactive maps, spice levels, dietary filters, certification verification, and vibrant community guides across UK, USA, Canada, Singapore, South Korea, Thailand, and more.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
