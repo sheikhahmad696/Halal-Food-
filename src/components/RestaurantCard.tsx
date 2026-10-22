@@ -53,6 +53,12 @@ export const RestaurantCard: React.FC<RestaurantCardProps> = ({
             alt={restaurant.name}
             className="w-full h-full object-cover object-center group-hover:scale-105 transition-transform duration-300"
             referrerPolicy="no-referrer"
+            onError={(e) => {
+              const target = e.currentTarget as HTMLImageElement;
+              if (target.src !== window.location.origin + '/images/hero_halal_dining_spread.jpg') {
+                target.src = '/images/hero_halal_dining_spread.jpg';
+              }
+            }}
           />
 
           {/* Open/Closed indicator overlay */}

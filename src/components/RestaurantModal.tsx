@@ -77,6 +77,12 @@ export const RestaurantModal: React.FC<RestaurantModalProps> = ({
             alt={restaurant.name}
             className="w-full h-full object-cover brightness-85"
             referrerPolicy="no-referrer"
+            onError={(e) => {
+              const target = e.currentTarget as HTMLImageElement;
+              if (target.src !== window.location.origin + '/images/hero_halal_dining_spread.jpg') {
+                target.src = '/images/hero_halal_dining_spread.jpg';
+              }
+            }}
           />
           <div className="absolute inset-0 bg-gradient-to-t from-stone-950 via-stone-950/40 to-transparent" />
 

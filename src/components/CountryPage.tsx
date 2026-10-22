@@ -55,6 +55,12 @@ export const CountryPage: React.FC<CountryPageProps> = ({
             alt={country.name}
             className="absolute inset-0 w-full h-full object-cover object-center opacity-40 filter saturate-90"
             referrerPolicy="no-referrer"
+            onError={(e) => {
+              const target = e.currentTarget as HTMLImageElement;
+              if (target.src !== window.location.origin + '/images/hero_halal_dining_spread.jpg') {
+                target.src = '/images/hero_halal_dining_spread.jpg';
+              }
+            }}
           />
           <div className="absolute inset-0 bg-gradient-to-t from-stone-950 via-stone-950/60 to-transparent" />
 

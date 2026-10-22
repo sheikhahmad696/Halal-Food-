@@ -110,6 +110,12 @@ export const BlogPage: React.FC<BlogPageProps> = ({
                 alt={currentBlog.title}
                 className="w-full h-full object-cover"
                 referrerPolicy="no-referrer"
+                onError={(e) => {
+                  const target = e.currentTarget as HTMLImageElement;
+                  if (target.src !== window.location.origin + '/images/hero_halal_dining_spread.jpg') {
+                    target.src = '/images/hero_halal_dining_spread.jpg';
+                  }
+                }}
               />
             </div>
 

@@ -12,7 +12,7 @@ export const CITIES_DATA: CityHub[] = [
     popularAreas: ['Toa Payoh HDB Hub', 'Lorong 4 Hawker Center', 'Square 2 Novena', 'Royal Square'],
     topCuisines: ['Nasi Padang', 'Ayam Penyet', 'Western Halal Soups', 'Roti Prata'],
     seoQuery: 'Halal food near Toa Payoh Novena',
-    heroImage: '/src/assets/images/hero_halal_dining_spread_1792568723248.jpg',
+    heroImage: '/images/hero_halal_dining_spread.jpg',
   },
   {
     slug: 'singapore-orchard-jurong',
@@ -24,7 +24,7 @@ export const CITIES_DATA: CityHub[] = [
     popularAreas: ['Royal Plaza on Scotts', 'Far East Plaza', 'Jurong Gateway Road', 'Westgate Mall', 'JEM'],
     topCuisines: ['Seafood Buffet', 'Thai Muslim Tomyam', 'Mamak Roti Prata', 'Butter Chicken'],
     seoQuery: 'Halal food near Orchard Rd Jurong East',
-    heroImage: '/src/assets/images/thai_halal_tomyam_seafood_1792568725351.jpg',
+    heroImage: '/images/thai_halal_tomyam_seafood.jpg',
   },
   {
     slug: 'singapore-tampines-punggol-yishun',
@@ -36,7 +36,7 @@ export const CITIES_DATA: CityHub[] = [
     popularAreas: ['Tampines Central 5', 'Punggol Tebing Lane', 'Northpoint City South Wing', 'Chong Pang'],
     topCuisines: ['Mutton Dum Biryani', 'Waterfront Fish & Crisps', 'Nasi Lemak Royale', 'Murtabak'],
     seoQuery: 'Halal food near Tampines Punggol Yishun',
-    heroImage: '/src/assets/images/hero_halal_dining_spread_1792568723248.jpg',
+    heroImage: '/images/hero_halal_dining_spread.jpg',
   },
 
   // South Korea Hubs
@@ -51,7 +51,7 @@ export const CITIES_DATA: CityHub[] = [
     popularAreas: ['Itaewon Mosque Street', 'Seongsu-dong 2-i-ga Cafe Street', 'Jamsil Olympic Park Area', 'Bukchon Hanok Village'],
     topCuisines: ['Halal Beef Bulgogi', 'Spicy Dakdoritang', 'Ginseng Samgyetang', 'Hanwoo-Style BBQ'],
     seoQuery: 'Halal food Seoul Jamsil Seongsu-dong',
-    heroImage: '/src/assets/images/korea_halal_bbq_dish_1792568723864.jpg',
+    heroImage: '/images/korea_halal_bbq_dish.jpg',
   },
   {
     slug: 'korea-busan-jeju',
@@ -64,7 +64,7 @@ export const CITIES_DATA: CityHub[] = [
     popularAreas: ['Haeundae Gunam-ro', 'Gamcheon Culture Village', 'Busan Station Choryang', 'Jeju City Central'],
     topCuisines: ['Busan Seafood Haemul Pajeon', 'Halal Korean Fried Chicken', 'Halal Tteokbokki', 'Jeju Kebab'],
     seoQuery: 'Halal food in Busan Near me Haeundae Gamcheon',
-    heroImage: '/src/assets/images/korea_halal_bbq_dish_1792568723864.jpg',
+    heroImage: '/images/korea_halal_bbq_dish.jpg',
   },
 
   // Thailand Hubs
@@ -79,7 +79,7 @@ export const CITIES_DATA: CityHub[] = [
     popularAreas: ['Ao Nang Beach Road', 'Ao Nang Mosque Soi 11', 'Ao Nang Soi 8', 'Marina View Walkway'],
     topCuisines: ['Spicy Tomyam Kung', 'Massaman Beef Curry', 'Rock Lobster BBQ', 'Flaky Thai Roti'],
     seoQuery: 'Best halal food in krabi May and Zin Ao Nang',
-    heroImage: '/src/assets/images/thai_halal_tomyam_seafood_1792568725351.jpg',
+    heroImage: '/images/thai_halal_tomyam_seafood.jpg',
   },
   {
     slug: 'thailand-bangkok-ratchathewi',
@@ -92,7 +92,7 @@ export const CITIES_DATA: CityHub[] = [
     popularAreas: ['Sukhumvit Soi 22', 'Ratchathewi Muslim Alley (Phetchaburi Soi 7)', 'MBK Center Food Hall', 'Samila Beach'],
     topCuisines: ['Authentic Pad Thai', 'Fiery Som Tum', 'Green Curry Chicken', 'Steamed Sea Bass in Lime'],
     seoQuery: 'halal food near ratchathewi usman thai muslim',
-    heroImage: '/src/assets/images/thai_halal_tomyam_seafood_1792568725351.jpg',
+    heroImage: '/images/thai_halal_tomyam_seafood.jpg',
   },
 
   // Canada Hubs
@@ -106,7 +106,7 @@ export const CITIES_DATA: CityHub[] = [
     popularAreas: ['Yonge-Dundas Toronto', 'Resolution Dr Brampton', 'Dixie Rd Mississauga', 'Kensington Market'],
     topCuisines: ['Lebanese Mixed Grill', 'Shinwari Mutton Karahi', 'Halal Angus Ribeye Steaks', 'Zabiha Burgers'],
     seoQuery: 'halal food near me in canada toronto brampton mississauga',
-    heroImage: '/src/assets/images/hero_halal_dining_spread_1792568723248.jpg',
+    heroImage: '/images/hero_halal_dining_spread.jpg',
   },
 
   // UK Hubs
@@ -120,7 +120,7 @@ export const CITIES_DATA: CityHub[] = [
     popularAreas: ['Whitechapel High Street', 'Westfield London Ariel Way', 'Edgware Road', 'Brick Lane'],
     topCuisines: ['Halal Cart Platters', 'Stun-Free Wagyu Steaks', 'Zinger Chicken Burgers', 'Mughlai Karahi'],
     seoQuery: 'best halal food near me in uk london hmc checker',
-    heroImage: '/src/assets/images/hero_halal_dining_spread_1792568723248.jpg',
+    heroImage: '/images/hero_halal_dining_spread.jpg',
   },
 
   // USA Hubs
@@ -134,7 +134,7 @@ export const CITIES_DATA: CityHub[] = [
     popularAreas: ['53rd St & 6th Ave Manhattan', 'Warren Ave East Dearborn', 'Devon Ave Chicago', 'Queens Main St'],
     topCuisines: ['NYC Halal Cart Rice Platters', 'Stuffed Whole Lamb', 'Shish Kabobs', 'Zabiha Burgers'],
     seoQuery: 'best halal food near me in usa nyc dearborn zabiha',
-    heroImage: '/src/assets/images/hero_halal_dining_spread_1792568723248.jpg',
+    heroImage: '/images/hero_halal_dining_spread.jpg',
   },
 
   // Pakistan Hubs
@@ -149,7 +149,7 @@ export const CITIES_DATA: CityHub[] = [
     popularAreas: ['Darbar Road Near Noor Mahal', 'Fareed Gate Circular Road', 'Bahawalpur Cantt Club Road', 'City Food Point'],
     topCuisines: ['Bahawalpur Butter Mutton Karahi', 'Cholistani Sajji with Saffron Pulao', 'Royal Seekh Kababs', 'Mughlai Champ'],
     seoQuery: 'restaurants in bahawalpur food point menu famous places',
-    heroImage: '/src/assets/images/bahawalpur_traditional_feast_1792568726201.jpg',
+    heroImage: '/images/bahawalpur_traditional_feast.jpg',
   },
   {
     slug: 'pakistan-lahore-walled-city',
@@ -162,7 +162,7 @@ export const CITIES_DATA: CityHub[] = [
     popularAreas: ['Fort Road Food Street', 'Gawalmandi Heritage Street', 'Gulberg MM Alam Road', 'Lakshmi Chowk'],
     topCuisines: ['Desi Murgh Karahi', 'Mutton Chanay', 'Tawa Chicken', 'Kashmiri Chai'],
     seoQuery: 'halal food near me pakistan lahore best restaurants',
-    heroImage: '/src/assets/images/bahawalpur_traditional_feast_1792568726201.jpg',
+    heroImage: '/images/bahawalpur_traditional_feast.jpg',
   },
   {
     slug: 'india-delhi-jama-masjid',
@@ -175,7 +175,7 @@ export const CITIES_DATA: CityHub[] = [
     popularAreas: ['Gali Kababian Jama Masjid', 'Matia Mahal Street', 'Chitli Qabar', 'Zakir Nagar Okhla'],
     topCuisines: ['Mutton Nihari', 'Chicken Changezi', 'Mutton Seekh Kebab', 'Khamiri Roti'],
     seoQuery: 'halal restaurants delhi near me best muslim restaurants',
-    heroImage: '/src/assets/images/hero_halal_dining_spread_1792568723248.jpg',
+    heroImage: '/images/hero_halal_dining_spread.jpg',
   },
   {
     slug: 'australia-sydney-melbourne',
@@ -187,6 +187,6 @@ export const CITIES_DATA: CityHub[] = [
     popularAreas: ['Haldon Street Lakemba', 'Auburn Central', 'Lonsdale Street Melbourne', 'Sydney Road Brunswick'],
     topCuisines: ['Charcoal Rotisserie Chicken', 'Garlic Toum & Pickles', 'Malaysian Roti Canai', 'Halal HSP Snack Packs'],
     seoQuery: 'sydney halal food near me australia charcoal chicken',
-    heroImage: '/src/assets/images/hero_halal_dining_spread_1792568723248.jpg',
+    heroImage: '/images/hero_halal_dining_spread.jpg',
   },
 ];

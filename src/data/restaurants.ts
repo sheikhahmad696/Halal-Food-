@@ -24,7 +24,7 @@ export const RESTAURANTS_DATA: Restaurant[] = [
     deliveryAvailable: true,
     phone: '+65 6250 8820',
     website: 'https://hjmaimunah.com',
-    image: '/src/assets/images/hero_halal_dining_spread_1792568723248.jpg',
+    image: '/images/hero_halal_dining_spread.jpg',
     spiceLevel: 3,
     halalStatus: {
       certificationBody: 'MUIS Singapore Certified',
@@ -117,7 +117,7 @@ export const RESTAURANTS_DATA: Restaurant[] = [
     openingHours: '10:30 AM – 9:30 PM',
     deliveryAvailable: true,
     phone: '+65 6397 2234',
-    image: '/src/assets/images/hero_halal_dining_spread_1792568723248.jpg',
+    image: '/images/hero_halal_dining_spread.jpg',
     spiceLevel: 1,
     halalStatus: {
       certificationBody: 'MUIS Singapore Certified',
@@ -189,7 +189,7 @@ export const RESTAURANTS_DATA: Restaurant[] = [
     openingHours: '12:00 PM – 2:00 PM, 6:30 PM – 9:30 PM',
     deliveryAvailable: false,
     phone: '+65 6589 7799',
-    image: '/src/assets/images/thai_halal_tomyam_seafood_1792568725351.jpg',
+    image: '/images/thai_halal_tomyam_seafood.jpg',
     spiceLevel: 2,
     halalStatus: {
       certificationBody: 'MUIS Singapore Certified',
@@ -261,7 +261,7 @@ export const RESTAURANTS_DATA: Restaurant[] = [
     openingHours: '24 Hours Open',
     deliveryAvailable: true,
     phone: '+65 6569 2200',
-    image: '/src/assets/images/hero_halal_dining_spread_1792568723248.jpg',
+    image: '/images/hero_halal_dining_spread.jpg',
     spiceLevel: 3,
     halalStatus: {
       certificationBody: 'MUIS Singapore Certified',
@@ -332,7 +332,7 @@ export const RESTAURANTS_DATA: Restaurant[] = [
     openingHours: '8:00 AM – 11:00 PM',
     deliveryAvailable: true,
     phone: '+65 6788 8891',
-    image: '/src/assets/images/hero_halal_dining_spread_1792568723248.jpg',
+    image: '/images/hero_halal_dining_spread.jpg',
     spiceLevel: 3,
     halalStatus: {
       certificationBody: 'MUIS Singapore Certified',
@@ -395,7 +395,7 @@ export const RESTAURANTS_DATA: Restaurant[] = [
     openingHours: '12:00 PM – 10:30 PM',
     deliveryAvailable: true,
     phone: '+65 6920 6388',
-    image: '/src/assets/images/thai_halal_tomyam_seafood_1792568725351.jpg',
+    image: '/images/thai_halal_tomyam_seafood.jpg',
     spiceLevel: 1,
     halalStatus: {
       certificationBody: 'MUIS Singapore Certified',
@@ -457,7 +457,7 @@ export const RESTAURANTS_DATA: Restaurant[] = [
     openingHours: '9:00 AM – 9:30 PM',
     deliveryAvailable: true,
     phone: '+65 6481 9022',
-    image: '/src/assets/images/hero_halal_dining_spread_1792568723248.jpg',
+    image: '/images/hero_halal_dining_spread.jpg',
     spiceLevel: 3,
     halalStatus: {
       certificationBody: 'MUIS Singapore Certified',
@@ -523,7 +523,7 @@ export const RESTAURANTS_DATA: Restaurant[] = [
     openingHours: '10:30 AM – 9:30 PM (Closed Tuesdays)',
     deliveryAvailable: true,
     phone: '+82 2-6014-5499',
-    image: '/src/assets/images/korea_halal_bbq_dish_1792568723864.jpg',
+    image: '/images/korea_halal_bbq_dish.jpg',
     spiceLevel: 2,
     halalStatus: {
       certificationBody: 'KMF (Korea Muslim Federation) Certified',
@@ -621,7 +621,7 @@ export const RESTAURANTS_DATA: Restaurant[] = [
     openingHours: '11:00 AM – 9:00 PM',
     deliveryAvailable: true,
     phone: '+82 51-744-8890',
-    image: '/src/assets/images/korea_halal_bbq_dish_1792568723864.jpg',
+    image: '/images/korea_halal_bbq_dish.jpg',
     spiceLevel: 2,
     halalStatus: {
       certificationBody: 'KMF (Korea Muslim Federation) Certified',
@@ -697,7 +697,7 @@ export const RESTAURANTS_DATA: Restaurant[] = [
     openingHours: '10:00 AM – 9:00 PM',
     deliveryAvailable: true,
     phone: '+82 51-468-2030',
-    image: '/src/assets/images/korea_halal_bbq_dish_1792568723864.jpg',
+    image: '/images/korea_halal_bbq_dish.jpg',
     spiceLevel: 3,
     halalStatus: {
       certificationBody: 'Muslim Friendly (Certified Halal Ingredients)',
@@ -763,7 +763,7 @@ export const RESTAURANTS_DATA: Restaurant[] = [
     openingHours: '11:30 AM – 9:30 PM',
     deliveryAvailable: true,
     phone: '+82 2-468-1219',
-    image: '/src/assets/images/korea_halal_bbq_dish_1792568723864.jpg',
+    image: '/images/korea_halal_bbq_dish.jpg',
     spiceLevel: 2,
     halalStatus: {
       certificationBody: 'KMF (Korea Muslim Federation) Certified',
@@ -830,7 +830,7 @@ export const RESTAURANTS_DATA: Restaurant[] = [
     openingHours: '10:00 AM – 7:00 PM',
     deliveryAvailable: false,
     phone: '+82 51-291-7781',
-    image: '/src/assets/images/korea_halal_bbq_dish_1792568723864.jpg',
+    image: '/images/korea_halal_bbq_dish.jpg',
     spiceLevel: 4,
     halalStatus: {
       certificationBody: 'Muslim Friendly (Pork-Free / Halal Meats)',
@@ -895,7 +895,7 @@ export const RESTAURANTS_DATA: Restaurant[] = [
     openingHours: '11:00 AM – 10:00 PM',
     deliveryAvailable: true,
     phone: '+82 64-757-8582',
-    image: '/src/assets/images/hero_halal_dining_spread_1792568723248.jpg',
+    image: '/images/hero_halal_dining_spread.jpg',
     spiceLevel: 3,
     halalStatus: {
       certificationBody: 'KMF Registered / Muslim Owned',
@@ -960,7 +960,7 @@ export const RESTAURANTS_DATA: Restaurant[] = [
     openingHours: '11:00 AM – 10:00 PM',
     deliveryAvailable: true,
     phone: '+66 81 270 4452',
-    image: '/src/assets/images/thai_halal_tomyam_seafood_1792568725351.jpg',
+    image: '/images/thai_halal_tomyam_seafood.jpg',
     spiceLevel: 4,
     halalStatus: {
       certificationBody: '100% Muslim Owned (Ao Nang Islamic Committee)',
@@ -1056,7 +1056,7 @@ export const RESTAURANTS_DATA: Restaurant[] = [
     openingHours: '10:00 AM – 10:00 PM',
     deliveryAvailable: true,
     phone: '+66 89 729 0041',
-    image: '/src/assets/images/thai_halal_tomyam_seafood_1792568725351.jpg',
+    image: '/images/thai_halal_tomyam_seafood.jpg',
     spiceLevel: 3,
     halalStatus: {
       certificationBody: 'CICOT Thailand Halal Certified',
@@ -1123,7 +1123,7 @@ export const RESTAURANTS_DATA: Restaurant[] = [
     openingHours: '12:00 PM – 11:00 PM',
     deliveryAvailable: false,
     phone: '+66 75 637 990',
-    image: '/src/assets/images/thai_halal_tomyam_seafood_1792568725351.jpg',
+    image: '/images/thai_halal_tomyam_seafood.jpg',
     spiceLevel: 3,
     halalStatus: {
       certificationBody: '100% Muslim Owned',
@@ -1186,7 +1186,7 @@ export const RESTAURANTS_DATA: Restaurant[] = [
     openingHours: '7:00 AM – 9:00 PM',
     deliveryAvailable: true,
     phone: '+66 84 845 7712',
-    image: '/src/assets/images/thai_halal_tomyam_seafood_1792568725351.jpg',
+    image: '/images/thai_halal_tomyam_seafood.jpg',
     spiceLevel: 3,
     halalStatus: {
       certificationBody: 'Ao Nang Central Mosque Verified Halal',
@@ -1252,7 +1252,7 @@ export const RESTAURANTS_DATA: Restaurant[] = [
     openingHours: '10:00 AM – 10:00 PM',
     deliveryAvailable: true,
     phone: '+66 81 884 7574',
-    image: '/src/assets/images/thai_halal_tomyam_seafood_1792568725351.jpg',
+    image: '/images/thai_halal_tomyam_seafood.jpg',
     spiceLevel: 4,
     halalStatus: {
       certificationBody: 'CICOT Thailand Halal Certified',
@@ -1328,7 +1328,7 @@ export const RESTAURANTS_DATA: Restaurant[] = [
     openingHours: '10:00 AM – 9:30 PM',
     deliveryAvailable: true,
     phone: '+66 74 311 029',
-    image: '/src/assets/images/thai_halal_tomyam_seafood_1792568725351.jpg',
+    image: '/images/thai_halal_tomyam_seafood.jpg',
     spiceLevel: 4,
     halalStatus: {
       certificationBody: 'Songkhla Islamic Committee Certified',
@@ -1393,7 +1393,7 @@ export const RESTAURANTS_DATA: Restaurant[] = [
     openingHours: '11:00 AM – 11:00 PM',
     deliveryAvailable: true,
     phone: '+1 416-366-3663',
-    image: '/src/assets/images/hero_halal_dining_spread_1792568723248.jpg',
+    image: '/images/hero_halal_dining_spread.jpg',
     spiceLevel: 2,
     halalStatus: {
       certificationBody: 'HMA (Halal Monitoring Authority Canada) Certified',
@@ -1466,7 +1466,7 @@ export const RESTAURANTS_DATA: Restaurant[] = [
     openingHours: '12:00 PM – 12:00 AM',
     deliveryAvailable: true,
     phone: '+1 905-451-8880',
-    image: '/src/assets/images/bahawalpur_traditional_feast_1792568726201.jpg',
+    image: '/images/bahawalpur_traditional_feast.jpg',
     spiceLevel: 4,
     halalStatus: {
       certificationBody: 'HMA Canada Certified (Hand-Slaughtered)',
@@ -1538,7 +1538,7 @@ export const RESTAURANTS_DATA: Restaurant[] = [
     openingHours: '12:00 PM – 10:30 PM',
     deliveryAvailable: true,
     phone: '+1 905-238-1212',
-    image: '/src/assets/images/hero_halal_dining_spread_1792568723248.jpg',
+    image: '/images/hero_halal_dining_spread.jpg',
     spiceLevel: 1,
     halalStatus: {
       certificationBody: 'HMA Certified Halal',
@@ -1611,7 +1611,7 @@ export const RESTAURANTS_DATA: Restaurant[] = [
     openingHours: '11:00 AM – 2:00 AM',
     deliveryAvailable: true,
     phone: '+44 20 7377 1290',
-    image: '/src/assets/images/hero_halal_dining_spread_1792568723248.jpg',
+    image: '/images/hero_halal_dining_spread.jpg',
     spiceLevel: 4,
     halalStatus: {
       certificationBody: 'HMC (Halal Monitoring Committee UK) Certified',
@@ -1698,7 +1698,7 @@ export const RESTAURANTS_DATA: Restaurant[] = [
     openingHours: '12:00 PM – 10:30 PM',
     deliveryAvailable: false,
     phone: '+44 20 8749 5959',
-    image: '/src/assets/images/hero_halal_dining_spread_1792568723248.jpg',
+    image: '/images/hero_halal_dining_spread.jpg',
     spiceLevel: 1,
     halalStatus: {
       certificationBody: 'HMC Dedicated Halal Kitchen & Certification',
@@ -1765,7 +1765,7 @@ export const RESTAURANTS_DATA: Restaurant[] = [
     openingHours: '10:00 AM – 4:00 AM',
     deliveryAvailable: true,
     phone: '+1 212-555-0199',
-    image: '/src/assets/images/hero_halal_dining_spread_1792568723248.jpg',
+    image: '/images/hero_halal_dining_spread.jpg',
     spiceLevel: 5,
     halalStatus: {
       certificationBody: 'HFSAA (Halal Food Standards Alliance of America)',
@@ -1832,7 +1832,7 @@ export const RESTAURANTS_DATA: Restaurant[] = [
     openingHours: '10:00 AM – 11:00 PM',
     deliveryAvailable: true,
     phone: '+1 313-582-8855',
-    image: '/src/assets/images/hero_halal_dining_spread_1792568723248.jpg',
+    image: '/images/hero_halal_dining_spread.jpg',
     spiceLevel: 1,
     halalStatus: {
       certificationBody: '100% Zabiha Halal Certified / Muslim Owned',
@@ -1905,7 +1905,7 @@ export const RESTAURANTS_DATA: Restaurant[] = [
     openingHours: '12:00 PM – 1:30 AM',
     deliveryAvailable: true,
     phone: '+92 62 288 7761',
-    image: '/src/assets/images/bahawalpur_traditional_feast_1792568726201.jpg',
+    image: '/images/bahawalpur_traditional_feast.jpg',
     spiceLevel: 4,
     halalStatus: {
       certificationBody: '100% Halal Verified (Punjab Halal Development Agency)',
@@ -1997,7 +1997,7 @@ export const RESTAURANTS_DATA: Restaurant[] = [
     openingHours: '1:00 PM – 12:00 AM',
     deliveryAvailable: true,
     phone: '+92 62 273 1122',
-    image: '/src/assets/images/bahawalpur_traditional_feast_1792568726201.jpg',
+    image: '/images/bahawalpur_traditional_feast.jpg',
     spiceLevel: 3,
     halalStatus: {
       certificationBody: 'Punjab Halal Development Agency Certified',
@@ -2060,7 +2060,7 @@ export const RESTAURANTS_DATA: Restaurant[] = [
     openingHours: '1:00 PM – 1:00 AM',
     deliveryAvailable: true,
     phone: '+92 42 376 37777',
-    image: '/src/assets/images/bahawalpur_traditional_feast_1792568726201.jpg',
+    image: '/images/bahawalpur_traditional_feast.jpg',
     spiceLevel: 4,
     halalStatus: {
       certificationBody: '100% Halal Verified / Muslim Owned',
@@ -2125,7 +2125,7 @@ export const RESTAURANTS_DATA: Restaurant[] = [
     openingHours: '11:00 AM – 11:30 PM',
     deliveryAvailable: true,
     phone: '+91 11 2326 9880',
-    image: '/src/assets/images/hero_halal_dining_spread_1792568723248.jpg',
+    image: '/images/hero_halal_dining_spread.jpg',
     spiceLevel: 3,
     halalStatus: {
       certificationBody: 'Jamiat Ulama-i-Hind Halal Trust Certified',
@@ -2199,7 +2199,7 @@ export const RESTAURANTS_DATA: Restaurant[] = [
     openingHours: '10:30 AM – 12:00 AM',
     deliveryAvailable: true,
     phone: '+91 11 2326 4126',
-    image: '/src/assets/images/hero_halal_dining_spread_1792568723248.jpg',
+    image: '/images/hero_halal_dining_spread.jpg',
     spiceLevel: 3,
     halalStatus: {
       certificationBody: '100% Muslim Owned & Halal Certified',
@@ -2264,7 +2264,7 @@ export const RESTAURANTS_DATA: Restaurant[] = [
     openingHours: '6:30 AM – 5:30 PM',
     deliveryAvailable: true,
     phone: '+60 3-7710 7860',
-    image: '/src/assets/images/hero_halal_dining_spread_1792568723248.jpg',
+    image: '/images/hero_halal_dining_spread.jpg',
     spiceLevel: 3,
     halalStatus: {
       certificationBody: 'JAKIM Malaysia Halal Certified',
@@ -2330,7 +2330,7 @@ export const RESTAURANTS_DATA: Restaurant[] = [
     openingHours: '10:00 AM – 11:30 PM',
     deliveryAvailable: true,
     phone: '+61 2 9750 3344',
-    image: '/src/assets/images/hero_halal_dining_spread_1792568723248.jpg',
+    image: '/images/hero_halal_dining_spread.jpg',
     spiceLevel: 2,
     halalStatus: {
       certificationBody: 'Australian Halal Authority & Advisers (AHAA)',

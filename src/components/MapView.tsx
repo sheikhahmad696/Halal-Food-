@@ -177,6 +177,13 @@ export const MapView: React.FC<MapViewProps> = ({
                 src={selectedPlace.image}
                 alt={selectedPlace.name}
                 className="w-20 h-20 rounded-lg object-cover shrink-0"
+                referrerPolicy="no-referrer"
+                onError={(e) => {
+                  const target = e.currentTarget as HTMLImageElement;
+                  if (target.src !== window.location.origin + '/images/hero_halal_dining_spread.jpg') {
+                    target.src = '/images/hero_halal_dining_spread.jpg';
+                  }
+                }}
               />
               <div className="overflow-hidden">
                 <div className="flex items-center gap-1.5 text-[11px] text-emerald-700 font-semibold mb-0.5">

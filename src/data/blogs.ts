@@ -9,7 +9,7 @@ export const BLOGS_DATA: BlogGuide[] = [
     readTime: '6 min read',
     date: 'Updated October 2026',
     author: 'HalalAtlas Editorial Council',
-    image: '/src/assets/images/korea_halal_bbq_dish_1792568723864.jpg',
+    image: '/images/korea_halal_bbq_dish.jpg',
     seoKeywords: [
       'Is Korean KFC halal?',
       'Is Korea halal friendly?',
@@ -59,7 +59,7 @@ export const BLOGS_DATA: BlogGuide[] = [
     readTime: '7 min read',
     date: 'Updated October 2026',
     author: 'Shaykh Farhan Siddiq & Research Team',
-    image: '/src/assets/images/hero_halal_dining_spread_1792568723248.jpg',
+    image: '/images/hero_halal_dining_spread.jpg',
     seoKeywords: [
       'Is KFC UK halal or not?',
       'Is KFC halal in America?',
@@ -100,7 +100,7 @@ export const BLOGS_DATA: BlogGuide[] = [
     readTime: '8 min read',
     date: 'Updated October 2026',
     author: 'Halal Travel Desk Seoul',
-    image: '/src/assets/images/korea_halal_bbq_dish_1792568723864.jpg',
+    image: '/images/korea_halal_bbq_dish.jpg',
     seoKeywords: [
       'best halal food near me in south korea',
       'halal food in korea convenience store',
@@ -143,7 +143,7 @@ export const BLOGS_DATA: BlogGuide[] = [
     readTime: '7 min read',
     date: 'Updated October 2026',
     author: 'Chef Noor Al-Haqq & Bangkok Bureau',
-    image: '/src/assets/images/thai_halal_tomyam_seafood_1792568725351.jpg',
+    image: '/images/thai_halal_tomyam_seafood.jpg',
     seoKeywords: [
       'best halal food near me in thailand',
       'May and Zin restaurant',
@@ -194,7 +194,7 @@ export const BLOGS_DATA: BlogGuide[] = [
     readTime: '6 min read',
     date: 'Updated October 2026',
     author: 'Taimur Khan Lodhi – Bahawalpur Heritage Guild',
-    image: '/src/assets/images/bahawalpur_traditional_feast_1792568726201.jpg',
+    image: '/images/bahawalpur_traditional_feast.jpg',
     seoKeywords: [
       'restaurants in bahawalpur',
       'bahawalpur food point menu',
@@ -237,7 +237,7 @@ export const BLOGS_DATA: BlogGuide[] = [
     readTime: '6 min read',
     date: 'Updated October 2026',
     author: 'HMA Consumer Advocacy Board',
-    image: '/src/assets/images/hero_halal_dining_spread_1792568723248.jpg',
+    image: '/images/hero_halal_dining_spread.jpg',
     seoKeywords: [
       'halal food near me in canada toronto',
       'list of halal products in canada',
@@ -277,7 +277,7 @@ export const BLOGS_DATA: BlogGuide[] = [
     readTime: '5 min read',
     date: 'Updated October 2026',
     author: 'HalalAtlas Global Travel Desk',
-    image: '/src/assets/images/thai_halal_tomyam_seafood_1792568725351.jpg',
+    image: '/images/thai_halal_tomyam_seafood.jpg',
     seoKeywords: [
       'Is 7-Eleven Thailand halal?',
       'Is 7-Eleven halal in Canada?',
@@ -314,7 +314,7 @@ export const BLOGS_DATA: BlogGuide[] = [
     readTime: '5 min read',
     date: 'Updated October 2026',
     author: 'UK Halal Restaurant Checker Team',
-    image: '/src/assets/images/hero_halal_dining_spread_1792568723248.jpg',
+    image: '/images/hero_halal_dining_spread.jpg',
     seoKeywords: [
       'Is Gordon Ramsay halal?',
       'halal restaurant checker',

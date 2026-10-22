@@ -63,7 +63,7 @@ export const HeroSearch: React.FC<HeroSearchProps> = ({
       {/* Background with measured contrast scrim */}
       <div className="absolute inset-0 z-0 opacity-35">
         <img
-          src="/src/assets/images/hero_halal_dining_spread_1792568723248.jpg"
+          src="/images/hero_halal_dining_spread.jpg"
           alt="Artisanal Halal feast"
           className="w-full h-full object-cover object-center filter saturate-90 brightness-75"
           referrerPolicy="no-referrer"
